@@ -1,2 +1,2 @@
 # fernandobenitez.co
-Personal website
+This repo stores the website I use for my personal website.
