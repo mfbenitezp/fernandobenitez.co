@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://fernandobenitez.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Fernando Benitez-Paez"
