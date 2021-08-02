@@ -5,7 +5,7 @@ action_type: text
 description: I am associate researcher at the Alan Turing Institute. I work mostly with spatial data from vector or raster format.
 image_left: false
 images:
-- img/revoir.jpg
+- img/me.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Spatial Data Scientist - GIScience 
