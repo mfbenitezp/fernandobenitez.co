@@ -28,8 +28,8 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "fernandobenitez.co"
-  orgLocal = "Scotland-Spain-Colombia"
+  orgName = "Fernando Benitez"
+  orgLocal = "London - UK "
   description = "This is my personal website, where I like to share research ideas, post, tutorials and other interesting topics abour GIScience."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"

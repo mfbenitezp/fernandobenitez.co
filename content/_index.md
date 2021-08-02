@@ -3,7 +3,7 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: I am associate researcher at the Alan Turing Institute. I work mostly with spatial data from vector or raster format.
-image_left: true
+image_left: false
 images:
 - img/revoir.jpg
 show_action_link: true
