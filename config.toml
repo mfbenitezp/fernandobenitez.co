@@ -1,5 +1,5 @@
-baseURL = "https://fernandobenitez.netlify.app"
-theme = "hugo-apero"
+baseURL = "https://fernandobenitez.co"
+theme = ""
 languageCode = "en"
 title = "Fernando Benitez-Paez"
 author = "Fernando Benitez-Paez"
@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "Fernando Benitez"
   orgLocal = "London - UK "
   description = "This is my personal website, where I like to share research ideas, post, tutorials and other interesting topics abour GIScience."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/location.ico"
+  logo = "/img/location.png"
+  mainSections = ["blog", "publications", "research"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,9 +41,9 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/me.jpg"
+  sharing_image = "/img/meSD.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  twitter = "mfbenitezp"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Metropolis"
-  customheadingFontFamily = "Bitter"
+  customtextFontFamily = "Poppins"
+  customheadingFontFamily = "Poppins"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -82,29 +82,37 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "mailto:benitez.fernando@gmail.com"
+  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/mfbenitezp"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=JzKw008AAAAJ&hl=es"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.linkedin.com/in/mfbenitezp/"
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://www.instagram.com/mfbenitezp/"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/mfbenitez"
   [[params.social]]
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://profiles.impactstory.org/u/0000-0002-9884-6471"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "https://orcid.org/0000-0002-9884-6471"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -119,7 +127,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Fernando Benitez-Paez"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -133,20 +141,25 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Research"
+    title = "Research"
+    url = "/research/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "Code"
+    title = "Code"
+    url = "/code/"
     weight = 5
   [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
+    name = "Publications"
+    title = "Publications Page"
+    url = "/publications/"
     weight = 6
+  [[menu.header]]
+    name = "CV"
+    title = "CV Page"
+    url = "/cv/"
+    weight = 7
     
   # Configure footer  
   [[menu.footer]]
@@ -159,11 +172,6 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

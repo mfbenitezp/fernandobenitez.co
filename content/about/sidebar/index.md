@@ -1,17 +1,17 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Hugo Apéro"
-role: "A Hugo theme"
-avatar_shape: rounded # circle, square, rounded, leave blank to exclude
+author: "Fernando Benítez-Páez"
+role: "GIScience"
+avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
-audio_link_label: "How to say my name" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: 
+link_list_label: "Research interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
+- name: Data Fusion
   url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
+- name: GIScience
   url: https://en.wikipedia.org/wiki/Pastry
-- name: People
+- name: Science of Movement
   url: https://en.wikipedia.org/wiki/People
 ---
 
