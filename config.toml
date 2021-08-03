@@ -1,5 +1,5 @@
 baseURL = "https://fernandobenitez.co"
-theme = ""
+theme = "hugo-apero"
 languageCode = "en"
 title = "Fernando Benitez-Paez"
 author = "Fernando Benitez-Paez"
