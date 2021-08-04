@@ -1,5 +1,5 @@
 ---
-author: Fernando Benitez-Paez
+author: 
 cascade:
   author: Fernando Benitez-Paez
   show_author_byline: true
