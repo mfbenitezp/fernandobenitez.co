@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "London - UK "
   description = "This is my personal website, where I like to share research ideas, post, tutorials and other interesting topics abour GIScience."
   favicon = "/img/location.ico"
-  logo = "/img/location.png"
+  logo = "/img/locationB.png"
   mainSections = ["blog", "publications", "research"]
   navallcaps = true
   # show/hide social icons in site header & footer
