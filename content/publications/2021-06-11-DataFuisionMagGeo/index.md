@@ -3,9 +3,7 @@ title: "Fusion of wildlife tracking and satellite geomagnetic data for the study
 author: "Benitez-Paez, Fernando and Brum-Bastos, Vanessa da Silva and Beggan, Ciaran D. and Long, Jed A. and Demsar, Urska"
 date: '2021-06-11'
 slug:
-categories: 
-  - Research
-  - Data Fusion
+categories:
 tags:
   - Animal migration
   - Data fusion
@@ -13,12 +11,12 @@ tags:
   - GPS tracking
   - Swarm satellite
 doi: '10.1186/s40462-021-00268-4'
-publishDate: '2021-08-04'
+publishDate: '2021-06-11'
 # publication_types:
 #   - '2'
 # publication: 'PDF'
 summary: 'We developed a novel data fusion method that helps researchers link Earth magnetic field data from satellites to GPS trajectories of tracked animals. This paper describes the technical process to of combining geomagnetic data (from European Space Agency Swarm satellites) with animal tracking data using a new spatio-temporal interpolation method. The tool was developed in Python. This is the first tool of this kind, and we hope it can help ecologists better understand how wildlife response to short-term variations on the geomagnetic field.'
-subtitle: 
+subtitle: Movement Ecology
 featured: yes
 links:
 - icon: door-open
