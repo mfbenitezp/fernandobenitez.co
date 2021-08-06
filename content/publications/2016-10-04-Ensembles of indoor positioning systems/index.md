@@ -1,5 +1,5 @@
 ---
-title: "Situation Goodness Method for Weighted Centroid-Based Wi-Fi APs Localization"
+title: "Ensembles of indoor positioning systems based on fingerprinting: Simplifying parameter selection and obtaining robust systems"
 author: "Joaquín Torres-Sospedra; Germán M. Mendoza-Silva; Raul Montoliu; Oscar Belmonte; Fernando Benitez-Paez; Joaquín Huerta"
 date: '2016-10-4'
 slug:

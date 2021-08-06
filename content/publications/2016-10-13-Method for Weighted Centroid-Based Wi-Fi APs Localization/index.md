@@ -1,5 +1,5 @@
 ---
-title: "Situation Goodness Method for Weighted Centroid-Based Wi-Fi APs Localization§"
+title: "Situation Goodness Method for Weighted Centroid-Based Wi-Fi APs Localization"
 author: "Mendoza-Silva Germán M, Torres-Sospedra Joaquín,Huerta Joaquín, Montoliu Raul, Benítez Fernando, Belmonte Oscar"
 date: '2016-10-13'
 slug:
