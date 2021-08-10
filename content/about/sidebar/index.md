@@ -9,6 +9,8 @@ link_list_label: "Research interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Data Fusion
   url: https://en.wikipedia.org/wiki/Paris
+- name: Urban Analytics
+  url: https://en.wikipedia.org/wiki/Paris
 - name: GIScience
   url: https://en.wikipedia.org/wiki/Pastry
 - name: Science of Movement
