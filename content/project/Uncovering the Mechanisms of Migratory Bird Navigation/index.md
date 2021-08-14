@@ -7,7 +7,7 @@ categories:
 - Data fusion
 date: "2021-04-01"
 draft: false
-excerpt: Lead by one of the world leaders in science of movement Dr Urška Demšar, I supported the developing of a novel data fusion method to join remote sensing data from the European space Agency mission (Swarm) with animal movement trajectories. This exciting and multidisciplinary project that meets ecology and GISience to study how birds in particular long distance migrants use Earth’s magnetic field for navigation.
+excerpt: Lead by Dr Urška Demšar one of the leaders in Science of Movement, I supported the developing of a novel data fusion method to join remote sensing data from the European Space Agency-ESA mission (Swarm) with animal movement trajectories. This exciting and multidisciplinary project attempts to meets Ecology with GISience methods to study how birds in particular long distance migrants use Earth’s magnetic field for navigation.
 layout: single
 subtitle: Ecology meets GIScience.
 tags:
@@ -24,5 +24,7 @@ To get more information about this project visit this link:  https://udemsar.com
 
 ### My role
 
-I work within a multidisciplinary team that include experts in several areas such as health, public policy, economics, and urban analytics. I support the work package 3, related to spatial modelling wich aim to develop spatial modelling methods or tools that can be integrated within the epidemiologic-socio-economic models to tackle policy questions that are relevant at the sub-national level (e.g., regional and local authorities). We are producing methodologies that offer ‘what if’ scenario modelling in relation to spatial variations in policy regulations, such as the local relaxation or reintroduction of social distancing rules, or local controls over business, leisure, and education.
+I worked as postdoctoral researcher to support the developing of a new method that integrates animal movement trajectories with remote sensing data from Swarm mission (European Space Agency - ESA) data. We materialize the data fusion method in a script-tool called MagGeo to help researchers link Earth's magnetic field data with GPS trajectories of tracked animals. The tool was developed in Python. This is the first tool of this kind, and we hope it can help ecologists better understand how wildlife response to short-term variations on the geomagnetic field.
+
+If you want more infomation about MagGeo or give it a try please visit this link: https://github.com/MagGeo/MagGeo-Annotation-Program 
 
