@@ -6,7 +6,7 @@ links:
 - icon: file-pdf
   icon_pack: fas
   name: PDF
-  url: Curriculum_Vitae_July2021.pdf
+  url: Curriculum_Vitae__Academic___August2021_.pdf
   
 ---
 
@@ -19,5 +19,7 @@ links:
 <iframe width='100%' height='600' 
     onload="resizeIframe(this)"
     frameborder="0"
-    src="https://github.com/mfbenitezp/fernandobenitez.co/blob/4c0b8003a6c66af7a771dcbb1db71686ddb375b8/content/cv/Curriculum_Vitae_July2021.pdf">
+    type="application/pdf"
+    src="https://drive.google.com/file/d/1ftIe22EZb21mTw9bOmor602Yw3gTzmOO/preview" width="640" height="480">
+>
 </iframe>
