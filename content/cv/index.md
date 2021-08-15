@@ -19,5 +19,5 @@ links:
 <iframe width='100%' height='600' 
     onload="resizeIframe(this)"
     frameborder="0"
-    src="https://docs.google.com/document/d/e/2PACX-1vTQK3vJrJsrXSsu0bonBAowJCO6Iovw9_jPbFaep5M51vOJZfijWxCSOFuQkoPb1JmeUWiAamK6iK2I/pub?embedded=true">
+    src="https://github.com/mfbenitezp/fernandobenitez.co/blob/main/content/cv/Curriculum_Vitae_July2021.pdf">
 </iframe>
