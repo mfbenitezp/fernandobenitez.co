@@ -130,11 +130,11 @@ enableEmoji = true
     title = "About Fernando Benitez-Paez"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  #[[menu.header]]
+    #name = "Blog"
+    #title = "Blog"
+    #url = "/blog/"
+    #ßweight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
