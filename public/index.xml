@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fernando Benítez-Páez on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/</link>
+    <description>Recent content in Fernando Benítez-Páez on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netlify</title>
+      <link>https://fernandobenitez.co/collection/day02/01-netlify/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/collection/day02/01-netlify/</guid>
+      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
+Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+    </item>
+    
+    <item>
+      <title>A first post</title>
+      <link>https://fernandobenitez.co/blog/spoonful-series/01-spoonful/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/spoonful-series/01-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog/spoonful-series/01-spoonful.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series   does this work?     or this?      Let&amp;rsquo;s start.
+beginning     middle     end     </description>
+    </item>
+    
+    <item>
+      <title>A GitHub profile</title>
+      <link>https://fernandobenitez.co/collection/day01/01-github/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/collection/day01/01-github/</guid>
+      <description>Profile      https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile      https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README     This is new! Let&amp;rsquo;s do it:
+ https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Prework</title>
+      <link>https://fernandobenitez.co/collection/prework/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/collection/prework/</guid>
+      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
+Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+    </item>
+    
+    <item>
+      <title>A postcard</title>
+      <link>https://fernandobenitez.co/collection/day01/02-postcards/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/collection/day01/02-postcards/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>A second post</title>
+      <link>https://fernandobenitez.co/blog/spoonful-series/02-spoonful/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/spoonful-series/02-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog/spoonful-series/02-spoonful/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Using blogdown</title>
+      <link>https://fernandobenitez.co/collection/day02/02-blogdown/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/collection/day02/02-blogdown/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>A third post</title>
+      <link>https://fernandobenitez.co/blog/spoonful-series/03-spoonful/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/spoonful-series/03-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/blog/spoonful-series/03-spoonful/index.markdown  Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
+ To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: blog  My layout is: single-series  Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
+    </item>
+    
+    <item>
+      <title>A distill site</title>
+      <link>https://fernandobenitez.co/collection/day01/03-distill/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/collection/day01/03-distill/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
+install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Warm woolen mittens</title>
+      <link>https://fernandobenitez.co/collection/day02/03-blogdown/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/collection/day02/03-blogdown/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>Fusion of wildlife tracking and satellite geomagnetic data for the study of animal migration</title>
+      <link>https://fernandobenitez.co/publications/2021-06-11-datafuisionmaggeo/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-06-11-datafuisionmaggeo/</guid>
+      <description>We developed a novel data fusion method that helps researchers link Earth magnetic field data from satellites to GPS trajectories of tracked animals. This paper describes the technical process to of combining geomagnetic data (from European Space Agency Swarm satellites) with animal tracking data using a new spatio-temporal interpolation method. The tool was developed in Python. This is the first tool of this kind, and we hope it can help ecologists better understand how wildlife response to short-term variations on the geomagnetic field.</description>
+    </item>
+    
+    <item>
+      <title>Shocks and Resilience</title>
+      <link>https://fernandobenitez.co/project/shocksresilience/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/shocksresilience/</guid>
+      <description>Project description     The COVID-19 crisis has highlighted how vulnerable societies and governments are to shocks. This vulnerability is exacerbated by the propensity to design policy for narrow silos relating to singular policy areas and government departments, without adequate consideration of the interdependencies between them and the interconnected nature of local and global societies. The pandemic has brought into focus the fact that resilience in one policy area (e.</description>
+    </item>
+    
+    <item>
+      <title>Uncovering the Mechanisms of Migratory Bird Navigation with Big Data Analytics.</title>
+      <link>https://fernandobenitez.co/project/uncovering-the-mechanisms-of-migratory-bird-navigation/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/uncovering-the-mechanisms-of-migratory-bird-navigation/</guid>
+      <description>Project description     Migratory birds are capable of amazing feats of navigation, yet our understanding of how they do this remains fairly rudimentary. We explore how birds use Earth’s magnetic field for navigation in a novel data science approach to ecology. For this, we will connect bird tracking data from over 60 studies with geomagnetic data from satellites and terrestrial networks, to, for the first time, find out about the actual geomagnetic conditions that the birds experienced during their journeys.</description>
+    </item>
+    
+    <item>
+      <title>Establishing the integrated science of movement: bringing together concepts and methods from animal and human movement analysis</title>
+      <link>https://fernandobenitez.co/publications/2021-03-25-establishing-the-integrated-science-of-movement/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-03-25-establishing-the-integrated-science-of-movement/</guid>
+      <description>Movement analysis has become an integral part of many disciplines, yet with relatively little overlap. A foresight paper in this journal entitled “Towards an integrated science of movement: converging research on animal movement ecology and human mobility science” argued for a better integration of concepts across the divide of animal and human movement, which would lead to the Integrated Science of Movement.</description>
+    </item>
+    
+    <item>
+      <title>Set up your social</title>
+      <link>https://fernandobenitez.co/blog/social/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/social/</guid>
+      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
+ site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.
+Configure social     Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+    </item>
+    
+    <item>
+      <title>Style your site colors</title>
+      <link>https://fernandobenitez.co/blog/color-themes/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/color-themes/</guid>
+      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
+Use a color theme     Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS.</description>
+    </item>
+    
+    <item>
+      <title>Style your site typography</title>
+      <link>https://fernandobenitez.co/blog/fonts/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/fonts/</guid>
+      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
+Embedded fonts     Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
+    </item>
+    
+    <item>
+      <title>An evergreen post</title>
+      <link>https://fernandobenitez.co/blog/evergreen/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/evergreen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openness: A Key Factor for Smart Cities</title>
+      <link>https://fernandobenitez.co/publications/2021-01-08-openness-a-key-factor-for-smart-cities/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-01-08-openness-a-key-factor-for-smart-cities/</guid>
+      <description>Openness in smart cities incorporates three key dimensions &amp;ndash; transparency, participation, and collaboration &amp;ndash; which affect various domains such as data processing or service provision. Using examples from ongoing and previous research, this chapter also discusses how to realize openness in practice and what benefits and drawbacks can result from different degrees of openness. Based on these considerations, a number of key issues are highlighted that are important to take into account in the design of smart cities and in the transformation process towards a sustainable, smart, and open city.</description>
+    </item>
+    
+    <item>
+      <title>Using panelsets</title>
+      <link>https://fernandobenitez.co/blog/seedling/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/seedling/</guid>
+      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
+For example, this panelset:
+Hello! 👋 hello
+ Goodbye 💨 goodbye
+  Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
+{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:</description>
+    </item>
+    
+    <item>
+      <title>A seedling</title>
+      <link>https://fernandobenitez.co/talk/second-seedling/</link>
+      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
+      
+      <guid>https://fernandobenitez.co/talk/second-seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Rmarkdown post</title>
+      <link>https://fernandobenitez.co/blog/rmarkdown/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/rmarkdown/</guid>
+      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
+    </item>
+    
+    <item>
+      <title>GIScience and Remote Sensing Lab</title>
+      <link>https://fernandobenitez.co/project/labgisciencelapaz/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/labgisciencelapaz/</guid>
+      <description> Project description     My role     </description>
+    </item>
+    
+    <item>
+      <title>A seedling</title>
+      <link>https://fernandobenitez.co/talk/seedling/</link>
+      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
+      
+      <guid>https://fernandobenitez.co/talk/seedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HATUA - StAAHR</title>
+      <link>https://fernandobenitez.co/project/hatua/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/hatua/</guid>
+      <description> Project description     My role     </description>
+    </item>
+    
+    <item>
+      <title>CSS Grid Scaffold</title>
+      <link>https://fernandobenitez.co/blog/css-grid-scaffold/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/css-grid-scaffold/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Palmer Penguins</title>
+      <link>https://fernandobenitez.co/code/penguins/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/code/penguins/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
+ Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+    </item>
+    
+    <item>
+      <title>Bakeoff</title>
+      <link>https://fernandobenitez.co/code/bakeoff/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/code/bakeoff/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+    <item>
+      <title>Built-in Contact Form</title>
+      <link>https://fernandobenitez.co/blog/built-in-contact-form/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/blog/built-in-contact-form/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+    </item>
+    
+    <item>
+      <title>Typography Styles &amp; Element Examples</title>
+      <link>https://fernandobenitez.co/elements/</link>
+      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
+      
+      <guid>https://fernandobenitez.co/elements/</guid>
+      <description>Font Sizes   A A A A A A A A   6rem
+(96px) 5rem
+(80px) 3rem
+(48px) 2.25rem
+(36px) 1.5rem
+(24px) 1.25rem
+(20px) 1rem
+(16px) .875rem
+(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+    </item>
+    
+    <item>
+      <title>Creating a conceptual framework to improve the re-usability of open geographic data in cities</title>
+      <link>https://fernandobenitez.co/publications/2018-08-02-conceptual-framework-to-improve-the-re-usability/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2018-08-02-conceptual-framework-to-improve-the-re-usability/</guid>
+      <description>This article, based on data collected through an on-line survey, participatory workshops with data user communities in four cities (in Colombia and Spain), and interviews with Valencia good-government office, identifies four elements for a conceptual framework to improve the re-usability of open geographic data in cities.</description>
+    </item>
+    
+    <item>
+      <title>Roadblocks Hindering the Reuse of Open Geodata in Colombia and Spain: A Data User’s Perspective</title>
+      <link>https://fernandobenitez.co/publications/2017-12-23-roadblocks-hindering-the-reuse-of-open-geodata-/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2017-12-23-roadblocks-hindering-the-reuse-of-open-geodata-/</guid>
+      <description>This article suggests a taxonomy of these barriers for Colombia and Spain, based on a literature review, an online questionnaire, and workshops conducted in four cities of these two countries. The taxonomy highlights that issues such as outdated data, low integration of data producers, published data being difficult to access, misinterpretation and misuse of released data and their terms of use are the most relevant from the data consumer’s point of view.</description>
+    </item>
+    
+    <item>
+      <title>Situation Goodness Method for Weighted Centroid-Based Wi-Fi APs Localization</title>
+      <link>https://fernandobenitez.co/publications/2016-10-13-method-for-weighted-centroid-based-wi-fi-aps-localization/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2016-10-13-method-for-weighted-centroid-based-wi-fi-aps-localization/</guid>
+      <description>The paper describes the testing location and the used Wi-Fi fingerprints database. That database is used to create new databases that recreate different sampling possibilities through a samples deletion strategy. The original database and the newly created ones are then used to evaluate the localization results of several AP localization methods and the new method proposed in this paper.</description>
+    </item>
+    
+    <item>
+      <title>Geo-C, Enabling Open Cities</title>
+      <link>https://fernandobenitez.co/project/geoc/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/geoc/</guid>
+      <description>Project description     Migratory birds are capable of amazing feats of navigation, yet our understanding of how they do this remains fairly rudimentary. We explore how birds use Earth’s magnetic field for navigation in a novel data science approach to ecology. For this, we will connect bird tracking data from over 60 studies with geomagnetic data from satellites and terrestrial networks, to, for the first time, find out about the actual geomagnetic conditions that the birds experienced during their journeys.</description>
+    </item>
+    
+    <item>
+      <title>SIG</title>
+      <link>https://fernandobenitez.co/project/geogeeks/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/geogeeks/</guid>
+      <description>Project description     Esri Colombia is the official distributor of the ArcGIS platform in Colombia., for more than 40 years, this company has been the leading GIS consultant and commercial distributor of ArcGIS. Currently, this Colombian-based company is also distributing ArcGIS in Ecuador and Panama. I started working there as a support engineer till I reached the development program manager position. During this role, we promote the Esri development platform and business models that Esri and ArcGIS offer to consultancies or companies that might complement their portfolio using or reselling the ArcGIS products.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://fernandobenitez.co/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
+Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://fernandobenitez.co/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/contributors/</guid>
+      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
+   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
+   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
+   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+    </item>
+    
+    <item>
+      <title>CV - Curriculum Vitae</title>
+      <link>https://fernandobenitez.co/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/cv/</guid>
+      <description> function resizeIframe(obj) { obj.style.height = 1.05*obj.contentWindow.document.body.scrollHeight + &#39;px&#39;; }  </description>
+    </item>
+    
+    <item>
+      <title>Ensembles of indoor positioning systems based on fingerprinting: Simplifying parameter selection and obtaining robust systems</title>
+      <link>https://fernandobenitez.co/publications/2016-10-04-ensembles-of-indoor-positioning-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2016-10-04-ensembles-of-indoor-positioning-systems/</guid>
+      <description>Selecting the appropriate parameters for an indoor positioning system may be a difficult task due to the large number of parameter combinations. It is more complex in realistic multi-building multi-floor environments, where severe wrong building and floor errors occur but they are not highlighted in the main evaluation metric. Moreover, a selected parameter configuration, that may seem appropriate in the system validation, may not have the expected behaviour in a real deployment. In order to address these issues, an ensemble of indoor positioning systems is introduced. A base estimator with 2.332 parameter combinations has been used. According to the results, this model simplifies the parameter selection and provides more robust systems.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://fernandobenitez.co/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+    <item>
+      <title>MagGeo</title>
+      <link>https://fernandobenitez.co/code/maggeo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/code/maggeo/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    
+    <item>
+      <title>Spatial D</title>
+      <link>https://fernandobenitez.co/talk/campfire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/talk/campfire/</guid>
+      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GIS on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/categories/gis/</link>
+    <description>Recent content in GIS on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/categories/gis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HATUA - StAAHR</title>
+      <link>https://fernandobenitez.co/project/hatua/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/hatua/</guid>
+      <description> Project description     My role     </description>
+    </item>
+    
+    <item>
+      <title>SIG</title>
+      <link>https://fernandobenitez.co/project/geogeeks/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/geogeeks/</guid>
+      <description>Project description     Esri Colombia is the official distributor of the ArcGIS platform in Colombia., for more than 40 years, this company has been the leading GIS consultant and commercial distributor of ArcGIS. Currently, this Colombian-based company is also distributing ArcGIS in Ecuador and Panama. I started working there as a support engineer till I reached the development program manager position. During this role, we promote the Esri development platform and business models that Esri and ArcGIS offer to consultancies or companies that might complement their portfolio using or reselling the ArcGIS products.</description>
+    </item>
+    
+  </channel>
+</rss>

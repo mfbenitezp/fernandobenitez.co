@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spain on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/tags/spain/</link>
+    <description>Recent content in Spain on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/tags/spain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roadblocks Hindering the Reuse of Open Geodata in Colombia and Spain: A Data User’s Perspective</title>
+      <link>https://fernandobenitez.co/publications/2017-12-23-roadblocks-hindering-the-reuse-of-open-geodata-/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2017-12-23-roadblocks-hindering-the-reuse-of-open-geodata-/</guid>
+      <description>This article suggests a taxonomy of these barriers for Colombia and Spain, based on a literature review, an online questionnaire, and workshops conducted in four cities of these two countries. The taxonomy highlights that issues such as outdated data, low integration of data producers, published data being difficult to access, misinterpretation and misuse of released data and their terms of use are the most relevant from the data consumer’s point of view.</description>
+    </item>
+    
+  </channel>
+</rss>

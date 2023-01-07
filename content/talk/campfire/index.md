@@ -1,12 +1,12 @@
 ---
-author: Alison Hill
+author: 
 categories:
-- workshop
-date: "2021-01-12"
-date_end: "2021-01-13"
+- 
+date: ""
+date_end: ""
 draft: false
 event: rstudio::global(2021)
-event_url: https://global.rstudio.com
+event_url: 
 excerpt: Here is a talk I gave on making awesome personal websites using Hugo, blogdown,
   GitHub, and Netlify.
 featured: true
@@ -23,7 +23,7 @@ links:
 location: Sydney, Australia
 show_post_time: false
 subtitle: Testing
-title: A campfire
+title: Spatial D
 ---
 
 I'm really excited to give this talk! Stay tuned for video and slides.

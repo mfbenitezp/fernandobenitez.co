@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swarm satellite on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/tags/swarm-satellite/</link>
+    <description>Recent content in Swarm satellite on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/tags/swarm-satellite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fusion of wildlife tracking and satellite geomagnetic data for the study of animal migration</title>
+      <link>https://fernandobenitez.co/publications/2021-06-11-datafuisionmaggeo/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-06-11-datafuisionmaggeo/</guid>
+      <description>We developed a novel data fusion method that helps researchers link Earth magnetic field data from satellites to GPS trajectories of tracked animals. This paper describes the technical process to of combining geomagnetic data (from European Space Agency Swarm satellites) with animal tracking data using a new spatio-temporal interpolation method. The tool was developed in Python. This is the first tool of this kind, and we hope it can help ecologists better understand how wildlife response to short-term variations on the geomagnetic field.</description>
+    </item>
+    
+  </channel>
+</rss>

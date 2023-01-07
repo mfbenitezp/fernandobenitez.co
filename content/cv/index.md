@@ -2,7 +2,7 @@
 text_align_right: false
 show_title_as_headline: false
 Title: CV - Curriculum Vitae
-Subtitle: Last update August 2021
+Subtitle: Version, August 2021
 links:
 - icon: file-pdf
   icon_pack: fas

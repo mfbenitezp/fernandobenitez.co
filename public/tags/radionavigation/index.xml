@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>radionavigation on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/tags/radionavigation/</link>
+    <description>Recent content in radionavigation on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://fernandobenitez.co/tags/radionavigation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensembles of indoor positioning systems based on fingerprinting: Simplifying parameter selection and obtaining robust systems</title>
+      <link>https://fernandobenitez.co/publications/2016-10-04-ensembles-of-indoor-positioning-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2016-10-04-ensembles-of-indoor-positioning-systems/</guid>
+      <description>Selecting the appropriate parameters for an indoor positioning system may be a difficult task due to the large number of parameter combinations. It is more complex in realistic multi-building multi-floor environments, where severe wrong building and floor errors occur but they are not highlighted in the main evaluation metric. Moreover, a selected parameter configuration, that may seem appropriate in the system validation, may not have the expected behaviour in a real deployment. In order to address these issues, an ensemble of indoor positioning systems is introduced. A base estimator with 2.332 parameter combinations has been used. According to the results, this model simplifies the parameter selection and provides more robust systems.</description>
+    </item>
+    
+  </channel>
+</rss>

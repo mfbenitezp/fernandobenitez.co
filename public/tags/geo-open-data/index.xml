@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geo open data on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/tags/geo-open-data/</link>
+    <description>Recent content in Geo open data on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/tags/geo-open-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a conceptual framework to improve the re-usability of open geographic data in cities</title>
+      <link>https://fernandobenitez.co/publications/2018-08-02-conceptual-framework-to-improve-the-re-usability/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2018-08-02-conceptual-framework-to-improve-the-re-usability/</guid>
+      <description>This article, based on data collected through an on-line survey, participatory workshops with data user communities in four cities (in Colombia and Spain), and interviews with Valencia good-government office, identifies four elements for a conceptual framework to improve the re-usability of open geographic data in cities.</description>
+    </item>
+    
+  </channel>
+</rss>

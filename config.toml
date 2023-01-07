@@ -33,7 +33,7 @@ enableEmoji = true
   description = "This is my personal website, where I like to share research ideas, post, tutorials and other interesting topics abour GIScience."
   favicon = "/img/location.ico"
   logo = "/img/locationB.png"
-  mainSections = ["blog", "publications", "research"]
+  mainSections = [ "publications", "research", "project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -139,27 +139,27 @@ enableEmoji = true
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/research/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Code"
     title = "Code"
     url = "/code/"
-    weight = 5
+    weight = 4
   [[menu.header]]
     name = "Publications"
     title = "Publications Page"
     url = "/publications/"
-    weight = 6
+    weight = 5
   [[menu.header]]
     name = "CV"
     title = "CV Page"
     url = "/cv/"
-    weight = 7
+    weight = 6
     
   # Configure footer  
   [[menu.footer]]
@@ -168,7 +168,7 @@ enableEmoji = true
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
+    name = "Contact me"
     title = "Contact form"
     url = "/contact/"
     weight = 2

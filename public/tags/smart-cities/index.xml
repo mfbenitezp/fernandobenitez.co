@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>smart cities on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/tags/smart-cities/</link>
+    <description>Recent content in smart cities on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/tags/smart-cities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Openness: A Key Factor for Smart Cities</title>
+      <link>https://fernandobenitez.co/publications/2021-01-08-openness-a-key-factor-for-smart-cities/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-01-08-openness-a-key-factor-for-smart-cities/</guid>
+      <description>Openness in smart cities incorporates three key dimensions &amp;ndash; transparency, participation, and collaboration &amp;ndash; which affect various domains such as data processing or service provision. Using examples from ongoing and previous research, this chapter also discusses how to realize openness in practice and what benefits and drawbacks can result from different degrees of openness. Based on these considerations, a number of key issues are highlighted that are important to take into account in the design of smart cities and in the transformation process towards a sustainable, smart, and open city.</description>
+    </item>
+    
+  </channel>
+</rss>

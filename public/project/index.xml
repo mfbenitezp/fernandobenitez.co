@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/project/</link>
+    <description>Recent content in Projects on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shocks and Resilience</title>
+      <link>https://fernandobenitez.co/project/shocksresilience/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/shocksresilience/</guid>
+      <description>Project description     The COVID-19 crisis has highlighted how vulnerable societies and governments are to shocks. This vulnerability is exacerbated by the propensity to design policy for narrow silos relating to singular policy areas and government departments, without adequate consideration of the interdependencies between them and the interconnected nature of local and global societies. The pandemic has brought into focus the fact that resilience in one policy area (e.</description>
+    </item>
+    
+    <item>
+      <title>Uncovering the Mechanisms of Migratory Bird Navigation with Big Data Analytics.</title>
+      <link>https://fernandobenitez.co/project/uncovering-the-mechanisms-of-migratory-bird-navigation/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/uncovering-the-mechanisms-of-migratory-bird-navigation/</guid>
+      <description>Project description     Migratory birds are capable of amazing feats of navigation, yet our understanding of how they do this remains fairly rudimentary. We explore how birds use Earth’s magnetic field for navigation in a novel data science approach to ecology. For this, we will connect bird tracking data from over 60 studies with geomagnetic data from satellites and terrestrial networks, to, for the first time, find out about the actual geomagnetic conditions that the birds experienced during their journeys.</description>
+    </item>
+    
+    <item>
+      <title>GIScience and Remote Sensing Lab</title>
+      <link>https://fernandobenitez.co/project/labgisciencelapaz/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/labgisciencelapaz/</guid>
+      <description> Project description     My role     </description>
+    </item>
+    
+    <item>
+      <title>HATUA - StAAHR</title>
+      <link>https://fernandobenitez.co/project/hatua/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/hatua/</guid>
+      <description> Project description     My role     </description>
+    </item>
+    
+    <item>
+      <title>Geo-C, Enabling Open Cities</title>
+      <link>https://fernandobenitez.co/project/geoc/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/geoc/</guid>
+      <description>Project description     Migratory birds are capable of amazing feats of navigation, yet our understanding of how they do this remains fairly rudimentary. We explore how birds use Earth’s magnetic field for navigation in a novel data science approach to ecology. For this, we will connect bird tracking data from over 60 studies with geomagnetic data from satellites and terrestrial networks, to, for the first time, find out about the actual geomagnetic conditions that the birds experienced during their journeys.</description>
+    </item>
+    
+    <item>
+      <title>SIG</title>
+      <link>https://fernandobenitez.co/project/geogeeks/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/geogeeks/</guid>
+      <description>Project description     Esri Colombia is the official distributor of the ArcGIS platform in Colombia., for more than 40 years, this company has been the leading GIS consultant and commercial distributor of ArcGIS. Currently, this Colombian-based company is also distributing ArcGIS in Ecuador and Panama. I started working there as a support engineer till I reached the development program manager position. During this role, we promote the Esri development platform and business models that Esri and ArcGIS offer to consultancies or companies that might complement their portfolio using or reselling the ArcGIS products.</description>
+    </item>
+    
+  </channel>
+</rss>

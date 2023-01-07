@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/publications/</link>
+    <description>Recent content in Publications on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fusion of wildlife tracking and satellite geomagnetic data for the study of animal migration</title>
+      <link>https://fernandobenitez.co/publications/2021-06-11-datafuisionmaggeo/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-06-11-datafuisionmaggeo/</guid>
+      <description>We developed a novel data fusion method that helps researchers link Earth magnetic field data from satellites to GPS trajectories of tracked animals. This paper describes the technical process to of combining geomagnetic data (from European Space Agency Swarm satellites) with animal tracking data using a new spatio-temporal interpolation method. The tool was developed in Python. This is the first tool of this kind, and we hope it can help ecologists better understand how wildlife response to short-term variations on the geomagnetic field.</description>
+    </item>
+    
+    <item>
+      <title>Establishing the integrated science of movement: bringing together concepts and methods from animal and human movement analysis</title>
+      <link>https://fernandobenitez.co/publications/2021-03-25-establishing-the-integrated-science-of-movement/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-03-25-establishing-the-integrated-science-of-movement/</guid>
+      <description>Movement analysis has become an integral part of many disciplines, yet with relatively little overlap. A foresight paper in this journal entitled “Towards an integrated science of movement: converging research on animal movement ecology and human mobility science” argued for a better integration of concepts across the divide of animal and human movement, which would lead to the Integrated Science of Movement.</description>
+    </item>
+    
+    <item>
+      <title>Openness: A Key Factor for Smart Cities</title>
+      <link>https://fernandobenitez.co/publications/2021-01-08-openness-a-key-factor-for-smart-cities/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2021-01-08-openness-a-key-factor-for-smart-cities/</guid>
+      <description>Openness in smart cities incorporates three key dimensions &amp;ndash; transparency, participation, and collaboration &amp;ndash; which affect various domains such as data processing or service provision. Using examples from ongoing and previous research, this chapter also discusses how to realize openness in practice and what benefits and drawbacks can result from different degrees of openness. Based on these considerations, a number of key issues are highlighted that are important to take into account in the design of smart cities and in the transformation process towards a sustainable, smart, and open city.</description>
+    </item>
+    
+    <item>
+      <title>Creating a conceptual framework to improve the re-usability of open geographic data in cities</title>
+      <link>https://fernandobenitez.co/publications/2018-08-02-conceptual-framework-to-improve-the-re-usability/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2018-08-02-conceptual-framework-to-improve-the-re-usability/</guid>
+      <description>This article, based on data collected through an on-line survey, participatory workshops with data user communities in four cities (in Colombia and Spain), and interviews with Valencia good-government office, identifies four elements for a conceptual framework to improve the re-usability of open geographic data in cities.</description>
+    </item>
+    
+    <item>
+      <title>Roadblocks Hindering the Reuse of Open Geodata in Colombia and Spain: A Data User’s Perspective</title>
+      <link>https://fernandobenitez.co/publications/2017-12-23-roadblocks-hindering-the-reuse-of-open-geodata-/</link>
+      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2017-12-23-roadblocks-hindering-the-reuse-of-open-geodata-/</guid>
+      <description>This article suggests a taxonomy of these barriers for Colombia and Spain, based on a literature review, an online questionnaire, and workshops conducted in four cities of these two countries. The taxonomy highlights that issues such as outdated data, low integration of data producers, published data being difficult to access, misinterpretation and misuse of released data and their terms of use are the most relevant from the data consumer’s point of view.</description>
+    </item>
+    
+    <item>
+      <title>Situation Goodness Method for Weighted Centroid-Based Wi-Fi APs Localization</title>
+      <link>https://fernandobenitez.co/publications/2016-10-13-method-for-weighted-centroid-based-wi-fi-aps-localization/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2016-10-13-method-for-weighted-centroid-based-wi-fi-aps-localization/</guid>
+      <description>The paper describes the testing location and the used Wi-Fi fingerprints database. That database is used to create new databases that recreate different sampling possibilities through a samples deletion strategy. The original database and the newly created ones are then used to evaluate the localization results of several AP localization methods and the new method proposed in this paper.</description>
+    </item>
+    
+    <item>
+      <title>Ensembles of indoor positioning systems based on fingerprinting: Simplifying parameter selection and obtaining robust systems</title>
+      <link>https://fernandobenitez.co/publications/2016-10-04-ensembles-of-indoor-positioning-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2016-10-04-ensembles-of-indoor-positioning-systems/</guid>
+      <description>Selecting the appropriate parameters for an indoor positioning system may be a difficult task due to the large number of parameter combinations. It is more complex in realistic multi-building multi-floor environments, where severe wrong building and floor errors occur but they are not highlighted in the main evaluation metric. Moreover, a selected parameter configuration, that may seem appropriate in the system validation, may not have the expected behaviour in a real deployment. In order to address these issues, an ensemble of indoor positioning systems is introduced. A base estimator with 2.332 parameter combinations has been used. According to the results, this model simplifies the parameter selection and provides more robust systems.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indoor localization on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/tags/indoor-localization/</link>
+    <description>Recent content in Indoor localization on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/tags/indoor-localization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Situation Goodness Method for Weighted Centroid-Based Wi-Fi APs Localization</title>
+      <link>https://fernandobenitez.co/publications/2016-10-13-method-for-weighted-centroid-based-wi-fi-aps-localization/</link>
+      <pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/publications/2016-10-13-method-for-weighted-centroid-based-wi-fi-aps-localization/</guid>
+      <description>The paper describes the testing location and the used Wi-Fi fingerprints database. That database is used to create new databases that recreate different sampling possibilities through a samples deletion strategy. The original database and the newly created ones are then used to evaluate the localization results of several AP localization methods and the new method proposed in this paper.</description>
+    </item>
+    
+  </channel>
+</rss>

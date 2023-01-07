@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecology on Fernando Benitez-Paez</title>
+    <link>https://fernandobenitez.co/categories/ecology/</link>
+    <description>Recent content in Ecology on Fernando Benitez-Paez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandobenitez.co/categories/ecology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering the Mechanisms of Migratory Bird Navigation with Big Data Analytics.</title>
+      <link>https://fernandobenitez.co/project/uncovering-the-mechanisms-of-migratory-bird-navigation/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandobenitez.co/project/uncovering-the-mechanisms-of-migratory-bird-navigation/</guid>
+      <description>Project description     Migratory birds are capable of amazing feats of navigation, yet our understanding of how they do this remains fairly rudimentary. We explore how birds use Earth’s magnetic field for navigation in a novel data science approach to ecology. For this, we will connect bird tracking data from over 60 studies with geomagnetic data from satellites and terrestrial networks, to, for the first time, find out about the actual geomagnetic conditions that the birds experienced during their journeys.</description>
+    </item>
+    
+  </channel>
+</rss>

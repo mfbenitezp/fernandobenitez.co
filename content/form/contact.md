@@ -1,6 +1,6 @@
 ---
 date: ""
-description: Please feel free to contact me for questions, collaborations, suggestions or anything related to my research interests. 
+description: Please feel free to contact me for questions, collaborations, suggestions or anything related to my research interests. Of course you can also follow me in social media (instagram or twitter) for no-academic stuff, like cycling, running, landscape photography o my personal hobbies.  Happy to catch up and see what other people is doing.
 draft: false
 formspree_form_id: xjvjpgnn
 layout: split-right
