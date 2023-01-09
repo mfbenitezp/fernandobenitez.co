@@ -9,7 +9,7 @@ images:
 - img/meSD.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Spatial Data Scientist | GIScience | Data Fusion
+subtitle: Urban Analytics | GIScience | Data Fusion
 text_align_left: false
 title: Fernando Benítez-Páez
 type: home
