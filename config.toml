@@ -1,8 +1,8 @@
 baseURL = "https://fernandobenitez.co"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Fernando Benitez-Paez"
-author = "Fernando Benitez-Paez"
+title = "Fernando Benitez"
+author = "Fernando Benitez"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -127,7 +127,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Fernando Benitez-Paez"
+    title = "About Fernando Benitez"
     url = "/about/"
     weight = 1
   #[[menu.header]]
@@ -137,7 +137,7 @@ enableEmoji = true
     #ßweight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects"
     url = "/project/"
     weight = 2
   [[menu.header]]
@@ -152,7 +152,7 @@ enableEmoji = true
     weight = 4
   [[menu.header]]
     name = "Publications"
-    title = "Publications Page"
+    title = "Publications"
     url = "/publications/"
     weight = 5
   [[menu.header]]

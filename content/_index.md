@@ -11,7 +11,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Urban Analytics | GIScience | Data Fusion
 text_align_left: false
-title: Fernando Benítez-Páez
+title: Fernando Benítez
 type: home
 ---
 
