@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Fernando Benítez"
+author: "Fernando Benítez-Paez"
 role: "Lecturer in Spatial Data Science"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config

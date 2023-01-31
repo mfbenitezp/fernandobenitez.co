@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  A website about Fernando Benitez, for a personal website
+  A website about Fernando Benitez-Paez, for a personal website
 show_header: false
 sidebar_left: false
 title: About
