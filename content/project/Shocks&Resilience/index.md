@@ -6,7 +6,7 @@ categories:
 - Data fusion
 date: "2021-04-01"
 draft: false
-excerpt: Supporting the spatial modelling this multidisciplinary project aims to develop spatial modelling methods or tools that can be integrated within the epidemiologic-socio-economic models to tackle policy questions that are relevant at the sub-national level (e.g., regional and local authorities).
+excerpt: Supporting the spatial modelling, this multidisciplinary project aims to develop spatial modelling methods or tools that can be integrated within the epidemiologic-socio-economic models to tackle policy questions that are relevant at the sub-national level (e.g., regional and local authorities). 
 layout: single
 subtitle: Measuring policy impact in the COVID-19 crisis and building resilience against future shocks.
 tags:
@@ -21,5 +21,7 @@ The COVID-19 crisis has highlighted how vulnerable societies and governments are
 
 ### My role
 
-I work within a multidisciplinary team that include experts in several areas such as health, public policy, economics, and urban analytics. I support the work package 3, related to spatial modelling wich aim to develop spatial modelling methods or tools that can be integrated within the epidemiologic-socio-economic models to tackle policy questions that are relevant at the sub-national level (e.g., regional and local authorities). We are producing methodologies that offer ‘what if’ scenario modelling in relation to spatial variations in policy regulations, such as the local relaxation or reintroduction of social distancing rules, or local controls over business, leisure, and education.
+I work within a multidisciplinary team that include experts in several areas such as health, public policy, economics, and urban analytics. I support the work package 3, related to spatial modelling which aim to develop spatial modelling methods or tools that can be integrated within the epidemiologic-socio-economic models to tackle policy questions that are relevant at the sub-national level (e.g., regional and local authorities). 
+
+We developed an innovated tool called [The Synthetic Population Catalyst - SPC](https://alan-turing-institute.github.io/uatk-spc/), that integrate a vary of data sources in great Britain to outcome a single file with the social-economic characteristics and interaction of the individuals of a given area. We hope that methods and tools we produce offer better means for  ‘what if’ scenario modelling in relation to spatial variations in policy regulations, such as the local relaxation or reintroduction of social distancing rules, or local controls over business, leisure, and education.
 
